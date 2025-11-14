@@ -1,9 +1,9 @@
-# 👋 Hi, I'm **Ahmed Mahmoud** (Yamato)
+# 👋 Hi, I'm **Ahmed Mahmoud** 
 
 ### 🟢 Backend Engineer — Node.js | Express | NestJS | MongoDB | PostgreSQL
 
 <p align="center">
-  <img src="https://imgur.com/8RCa7jM.png" alt="Banner" />
+  <img src=https://imgur.com/8RCa7jM.png alt="Banner" />
 </p>
 
 ---
