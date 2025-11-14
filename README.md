@@ -3,7 +3,7 @@
 ### 🟢 Backend Engineer — Node.js | Express | NestJS | MongoDB | PostgreSQL
 
 <p align="center">
-  <img src=[https://imgur.com/8RCa7jM.png](https://imgur.com/gallery/node-js-hexagon-ArN48vy#/t/nodejs) alt="Banner" />
+  <img src="https://imgur.com/8RCa7jM.png" alt="Banner" />
 </p>
 
 ---
