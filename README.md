@@ -3,7 +3,7 @@
 ### 🟢 Backend Engineer — Node.js | Express | NestJS | MongoDB | PostgreSQL
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedMahmoudEG/AhmedMahmoudEG/refs/heads/main/banner.png" alt="Banner" />
+  <img src="https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png?w=500&fm=webp" alt="Banner" />
 </p>
 
 ---
