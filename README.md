@@ -55,6 +55,6 @@ Repository: https://github.com/AhmedMahmoudEG/ProdFlow-App
 
 LinkedIn: https://linkedin.com/in/ahmedmahmoudeg
 
-Email: ahmadfcis1998@gmail.com
+Email: ah.abdelhay5@gmail.com
 
 Always learning. Always testing. Always improving.
